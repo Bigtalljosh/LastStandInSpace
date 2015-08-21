@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\BloomCombine.fx</Source>
+      <Name>Shaders\BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Shaders\BloomCombine.xnb</Output>
+      <Time>2013-07-26T17:23:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\BloomExtract.fx</Source>
+      <Name>Shaders\BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Shaders\BloomExtract.xnb</Output>
+      <Time>2013-07-26T17:23:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\GaussianBlur.fx</Source>
+      <Name>Shaders\GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Shaders\GaussianBlur.xnb</Output>
+      <Time>2013-07-26T17:23:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion-01.wav</Source>
+      <Name>Sound\explosion-01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\explosion-01.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion-02.wav</Source>
+      <Name>Sound\explosion-02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\explosion-02.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion-03.wav</Source>
+      <Name>Sound\explosion-03</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\explosion-03.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion-04.wav</Source>
+      <Name>Sound\explosion-04</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\explosion-04.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion-05.wav</Source>
+      <Name>Sound\explosion-05</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\explosion-05.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion-06.wav</Source>
+      <Name>Sound\explosion-06</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\explosion-06.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion-07.wav</Source>
+      <Name>Sound\explosion-07</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\explosion-07.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion-08.wav</Source>
+      <Name>Sound\explosion-08</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\explosion-08.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\shoot-01.wav</Source>
+      <Name>Sound\shoot-01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\shoot-01.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\shoot-02.wav</Source>
+      <Name>Sound\shoot-02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\shoot-02.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\shoot-03.wav</Source>
+      <Name>Sound\shoot-03</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\shoot-03.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\shoot-04.wav</Source>
+      <Name>Sound\shoot-04</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\shoot-04.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawn-01.wav</Source>
+      <Name>Sound\spawn-01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\spawn-01.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawn-02.wav</Source>
+      <Name>Sound\spawn-02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\spawn-02.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawn-03.wav</Source>
+      <Name>Sound\spawn-03</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\spawn-03.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawn-04.wav</Source>
+      <Name>Sound\spawn-04</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\spawn-04.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawn-05.wav</Source>
+      <Name>Sound\spawn-05</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\spawn-05.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawn-06.wav</Source>
+      <Name>Sound\spawn-06</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\spawn-06.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawn-07.wav</Source>
+      <Name>Sound\spawn-07</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\spawn-07.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawn-08.wav</Source>
+      <Name>Sound\spawn-08</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\spawn-08.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Music.mp3</Source>
+      <Name>Sound\Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\Music.xnb</Output>
+      <Extra>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Sound\Music.wma</Extra>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Black Hole.png</Source>
+      <Name>Textures\Black Hole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\Black Hole.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bullet.png</Source>
+      <Name>Textures\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\Bullet.xnb</Output>
+      <Time>2013-07-26T02:23:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Glow.png</Source>
+      <Name>Textures\Glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\Glow.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Laser.png</Source>
+      <Name>Textures\Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\Laser.xnb</Output>
+      <Time>2013-07-26T17:29:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player.png</Source>
+      <Name>Textures\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\Player.xnb</Output>
+      <Time>2013-07-26T02:23:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pointer.png</Source>
+      <Name>Textures\Pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\Pointer.xnb</Output>
+      <Time>2013-07-26T02:23:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Seeker.png</Source>
+      <Name>Textures\Seeker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\Seeker.xnb</Output>
+      <Time>2013-07-26T02:23:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Wanderer.png</Source>
+      <Name>Textures\Wanderer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\Wanderer.xnb</Output>
+      <Time>2013-07-26T02:23:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\Textures\background.xnb</Output>
+      <Time>2013-10-04T15:53:37.0405986+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{17B88829-2AF4-488A-8187-5494DE65DA21}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpaceContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\jdadak\documents\visual studio 2012\Projects\LastStandInSpace\LastStandInSpace\LastStandInSpace\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-08T15:46:12.8435508+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

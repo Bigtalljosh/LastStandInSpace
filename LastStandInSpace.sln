@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastStandInSpace", "LastStandInSpace\LastStandInSpace\LastStandInSpace.csproj", "{762194C8-6BAB-4403-8DBD-A294633BA438}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LastStandInSpaceContent", "LastStandInSpace\LastStandInSpaceContent\LastStandInSpaceContent.contentproj", "{17B88829-2AF4-488A-8187-5494DE65DA21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{762194C8-6BAB-4403-8DBD-A294633BA438}.Debug|x86.ActiveCfg = Debug|x86
+		{762194C8-6BAB-4403-8DBD-A294633BA438}.Debug|x86.Build.0 = Debug|x86
+		{762194C8-6BAB-4403-8DBD-A294633BA438}.Release|x86.ActiveCfg = Release|x86
+		{762194C8-6BAB-4403-8DBD-A294633BA438}.Release|x86.Build.0 = Release|x86
+		{17B88829-2AF4-488A-8187-5494DE65DA21}.Debug|x86.ActiveCfg = Debug|x86
+		{17B88829-2AF4-488A-8187-5494DE65DA21}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
